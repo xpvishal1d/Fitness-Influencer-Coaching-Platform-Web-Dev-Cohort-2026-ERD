@@ -2,6 +2,7 @@
 
 This project represents a database design for an online fitness coaching platform.
 
+[Erager link](https://app.eraser.io/workspace/2zzPB2C7mFeYkNRx4Ldg)
 ## Features Modeled
 
 - Trainers and Clients (stored in users table with roles)
